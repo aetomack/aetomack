@@ -1,4 +1,4 @@
-I'm a software engineer & artist interested in embedded systems and machine learning. I'm also a recent Vanderbilt CS + Econ grad.
+I'm a software engineer & artist interested in low-level programming and machine learning. I'm also a recent Vanderbilt CS + Econ grad.
 
 Recently, I worked at a mental health startup, Arrowz, revamping their backend ML implementation and launching a revenue model; at a local org delivering thousands of datasets to hundreds of parishes and schools; and at an ML startup in South Africa in collaboration with Western Sydney University implementing prototype unsupervised semantic segmentation models for sky observations. 
 
