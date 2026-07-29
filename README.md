@@ -1,1 +1,5 @@
-<img width="256" height="384" alt="WhatsApp Image 2026-07-27 at 20 47 37" src="https://github.com/user-attachments/assets/cf456850-4916-4e39-be0b-eb81ef3697d8" />
+### Author of:
+- [Lynx](https://getlynx.dev) — Cofounder matching for students
+- [Corkd](https://github.com/aetomack/corkd) — AI observability and job matching for creatives
+
+<img width="500" height="381" alt="tumblr_n2k6v3ZPhE1r6sk6wo1_r2_500" src="https://github.com/user-attachments/assets/e19ef9b8-daed-42ef-90bf-bdb536ca69cf" />
